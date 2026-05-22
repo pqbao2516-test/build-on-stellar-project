@@ -1,22 +1,17 @@
-# Soroban Project
+# Title
+Certificate
+# Description
+To allocate certificate to participants after an event
+# Features
+Detailed features
+# Contract
+[Contract link](https://stellar.expert/explorer/testnet/contract/CAVDISEUCDGVDQW3KZWECR4HP3BLMIX54GSEX2TNTZOWCRQBO6SO4Q7D)
 
-## Project Structure
+Contract's screenshot
+[![image.png](https://i.postimg.cc/4NpHpsrd/image.png)](https://postimg.cc/9rFfh5X5)
 
-This repository uses the recommended structure for a Soroban project:
-
-```text
-.
-├── contracts
-│   └── hello_world
-│       ├── src
-│       │   ├── lib.rs
-│       │   └── test.rs
-│       └── Cargo.toml
-├── Cargo.toml
-└── README.md
-```
-
-- New Soroban contracts can be put in `contracts`, each in their own directory. There is already a `hello_world` contract in there to get you started.
-- If you initialized this project with any other example contracts via `--with-example`, those contracts will be in the `contracts` directory as well.
-- Contracts should have their own `Cargo.toml` files that rely on the top-level `Cargo.toml` workspace for their dependencies.
-- Frontend libraries can be added to the top-level directory as well. If you initialized this project with a frontend template via `--frontend-template` you will have those files already included.
+# Project Vision
+# Future Scope
+Add more features...
+# Profile
+Your name, skills, ... 
