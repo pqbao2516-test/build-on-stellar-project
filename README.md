@@ -19,6 +19,7 @@ Based on the `EventCertificateContract` implementation, the project currently su
 **Live Testnet Contract:** [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CAVDISEUCDGVDQW3KZWECR4HP3BLMIX54GSEX2TNTZOWCRQBO6SO4Q7D)
 
 ### Contract Screenshot
+<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/b9045588-2d19-4e00-a17b-17436cbe0dd3" />
 
 ## Project Vision
 
